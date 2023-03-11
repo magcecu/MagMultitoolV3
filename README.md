@@ -10,7 +10,7 @@ https://github.com/magcecu/MagMultitool-V-1.1
 https://github.com/magcecu/Mag-Multitool-V-1.2
 
 # Inside
-In the rar you can find: 
+In the rar you can find:\n 
 Folder with some of the premade programs
 Main program
 Instructions
