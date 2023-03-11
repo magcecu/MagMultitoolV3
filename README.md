@@ -10,11 +10,11 @@ https://github.com/magcecu/MagMultitool-V-1.1
 https://github.com/magcecu/Mag-Multitool-V-1.2
 
 # Inside
-In it you can find the general page full of usefull tools
-And a begginer tool page.
-
-# Open
-To run the multitool properly please put the MagMulti folder somewhere and dont keep it as a rar (if you got the rar)
+In the rar you can find: 
+Folder with some of the premade programs
+Main program
+Instructions
+Requirements
 
 # Device
 Works only on win and linux
