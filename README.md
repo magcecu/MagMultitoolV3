@@ -8,7 +8,7 @@ This is the third version of the MagMultitool made by the long gone HSCC....
 https://github.com/magcecu/Mag-Multitool-V-1.2
 
 # Inside
-In the rar you can find:                                                                                
+This rep contains:                                                                            
 Folder with some of the premade programs                                                                              
 Main program                                                                                                    
 Instructions                                                                                                                 
