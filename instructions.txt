@@ -1,0 +1,3 @@
+This is a pretty simple program so it will run on everything.
+You should have the requirements installed via pip and everything would work just fine.
+If any problems DM me on my discord.
