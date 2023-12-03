@@ -21,6 +21,6 @@ Works only on win and linux
 Paypal:                                                                                                                           
 https://www.paypal.me/ivanedavai                                                                                                 
 Discord Surver:                                                                                                                   
-https://discord.gg/sGwvPYk3
+https://discord.gg/P8sKTTndqk
 
 # Made By mag cecu
